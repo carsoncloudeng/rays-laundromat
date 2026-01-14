@@ -1,0 +1,7 @@
+{
+  "name": "Ray's Laundromat",
+  "description": "Premium laundry management system with AI support, real-time tracking, and administrative controls.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
